@@ -4,7 +4,7 @@
 title: Photon-Limited Non-Blind Deblurring using Algorithm Unrolling
 layout: default
 ---
-
+<link rel="stylesheet" href="./css/slideshow.css">
 
 <h1>Photon-Limited Non-Blind Deblurring using Algorithm Unrolling</h1>
 <h3	>Yash Sanghvi, Abhiram Gnanasambandam, Stanley H. Chan</h3>
@@ -40,6 +40,7 @@ Image deblurring in photon-limited conditions is ubiquitous in a variety of low-
 <img src="assets/fig1c.png" alt="drawing" style="width:28%;padding:1%;"/>
 </center>		
 <br>
+
 <h2>Video Presentation - ICASSP 2022 </h2>
 <center><iframe width="800" height="450" src="https://www.youtube.com/embed/bJHiUKzjaCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -56,7 +57,44 @@ Real world dataset for evaluation of non-blind deblurring algorithms in the pres
 </center>
 <br> 
 
-
+<h2> Results Gallery </h2>
+<div class="slideshow-container">
+	<div class="slide">
+		<div class="img-comp fade">
+		<img src="assets/results_real/y_3.png" width="600" height="600">
+		</div>
+		<div class="img-comp-overlay fade">
+		<img src="assets/results_real/p4ip_3.png" width="600" height="600">
+		</div>
+	</div>
+	<div class="slide">
+		<div class="img-comp fade">
+		<img src="assets/results_real/y_11.png" width="600" height="600">
+		</div>
+		<div class="img-comp-overlay fade">
+		<img src="assets/results_real/p4ip_11.png" width="600" height="600">
+		</div>
+	</div>
+	<div class="slide">
+		<div class="img-comp fade">
+		<img src="assets/results_real/y_13.png" width="600" height="600">
+		</div>
+		<div class="img-comp-overlay fade">
+		<img src="assets/results_real/p4ip_13.png" width="600" height="600">
+		</div>
+	</div>
+	<div class="slide">
+		<div class="img-comp fade">
+		<img src="assets/results_real/y_28.png" width="600" height="600">
+		</div>
+		<div class="img-comp-overlay fade">
+		<img src="assets/results_real/p4ip_28.png" width="600" height="600">
+		</div>
+	</div>
+	<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  	<a class="next" onclick="plusSlides(1)">&#10095;</a>	
+</div>
+<br>
 <h2>Citation</h2>
  ```
  @article{sanghvi2021photon,
@@ -71,5 +109,11 @@ Real world dataset for evaluation of non-blind deblurring algorithms in the pres
 <div class="footer-content" style="--maxw:100px; width: 100%; --px:100px">
     <h4>Dataset, site maintained by <a href="https://github.com/sanghviyashiitb" target="_blank">@sanghviyashiitb</a>, Brought to you by the <a href="https://engineering.purdue.edu/ChanGroup/">i2Lab</a> at Purdue University.</h4>
     <h4>PDF, Dataset, Github icons created by <a href="https://www.flaticon.com/free-icons/github" title="github icons">Flaticon</a>, Minimal theme by <a href="https://github.com/orderedlist">orderedlist</a></h4>
-</div>
+</div> 
 
+
+
+<script src="./js/comparison.js">
+</script>
+<script src="./js/slideshow.js">
+</script>
