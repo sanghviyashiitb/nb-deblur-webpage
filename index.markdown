@@ -24,7 +24,7 @@ layout: default
 	</a>
 	</div>
 	<div style="float:left;width:33%;">
-		<a href="https://arxiv.org/abs/2110.15314">
+		<a href="https://github.com/sanghviyashiitb/poisson-deblurring">
 		<img src="assets/github.png" alt="drawing" style="width:20%;padding:5%;"/>
 		<h2>Code</h2>
 	</a>
