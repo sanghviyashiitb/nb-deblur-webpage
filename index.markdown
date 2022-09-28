@@ -7,23 +7,29 @@ layout: default
 <link rel="stylesheet" href="./css/slideshow.css">
 
 <h1>Photon-Limited Non-Blind Deblurring using Algorithm Unrolling</h1>
-<h3	>Yash Sanghvi, Abhiram Gnanasambandam, Stanley H. Chan</h3>
+<h3>Yash Sanghvi, Abhiram Gnanasambandam, Stanley H. Chan</h3>
 
 <div style="width:100%;">
 <center>
-	<div style="float:left;width:33%;">
-		<a href="https://arxiv.org/abs/2110.15314">
+	<div style="float:left;width:25%;">
+		<a href="https://ieeexplore.ieee.org/document/9903556">
 		<img src="assets/pdf.png" alt="drawing" style="width:20%;padding:5%;"/>
 		<h2>PDF</h2>
 	</a>
 	</div>
-	<div style="float:left;width:33%;">
+	<div style="float:left;width:24%;">
+		<a href="https://arxiv.org/abs/2110.15314">
+		<img src="assets/arxiv-logo.png" alt="drawing" style="width:20%;padding:5%;"/>
+		<h2>Arxiv</h2>
+	</a>
+	</div>
+	<div style="float:left;width:25%;">
 		<a href="https://aaaakshat.github.io/pldd/">
 		<img src="assets/dataset.png" alt="drawing" style="width:20%;padding:5%;"/>
 		<h2>Dataset</h2>
 	</a>
 	</div>
-	<div style="float:left;width:33%;">
+	<div style="float:left;width:25%;">
 		<a href="https://github.com/sanghviyashiitb/poisson-deblurring">
 		<img src="assets/github.png" alt="drawing" style="width:20%;padding:5%;"/>
 		<h2>Code</h2>
