@@ -103,12 +103,15 @@ Real world dataset for evaluation of non-blind deblurring algorithms in the pres
 <br>
 <h2>Citation</h2>
  ```
- @article{sanghvi2021photon,
-  title={Photon limited non-blind deblurring using algorithm unrolling},
-  author={Sanghvi, Yash and Gnanasambandam, Abhiram and Chan, Stanley H},
-  journal={arXiv preprint arXiv:2110.15314},
-  year={2021}
-}
+ @ARTICLE{9903556,
+  author={Sanghvi, Yash and Gnanasambandam, Abhiram and Chan, Stanley H.},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={Photon Limited Non-Blind Deblurring Using Algorithm Unrolling}, 
+  year={2022},
+  volume={8},
+  number={},
+  pages={851-864},
+  doi={10.1109/TCI.2022.3209939}}
  ```
 <br>
 
