@@ -24,7 +24,7 @@ layout: default
 	</a>
 	</div>
 	<div style="float:left;width:25%;">
-		<a href="https://aaaakshat.github.io/pldd/">
+		<a href="https://drive.google.com/file/d/1WUKuG-2Oddn8PmWac490mCNi5If4XqVg/view?usp=sharing">
 		<img src="assets/dataset.png" alt="drawing" style="width:20%;padding:5%;"/>
 		<h2>Dataset</h2>
 	</a>
@@ -53,7 +53,7 @@ Image deblurring in photon-limited conditions is ubiquitous in a variety of low-
 <br>
 
 <h2>Dataset</h2>
-<span style="font-size:large;">Click <a href="https://aaaakshat.github.io/pldd/">here</a> for download and further details about the dataset!</span>
+<span style="font-size:large;">Click <a href="https://drive.google.com/file/d/1WUKuG-2Oddn8PmWac490mCNi5If4XqVg/view?usp=sharing">here</a> for download and further details about the dataset!</span>
 
 Real world dataset for evaluation of non-blind deblurring algorithms in the presence of photon shot noise. Contains 30 images at different light levels and blurred by different motion kernels - ground truth kernel captured using a point source.
 
