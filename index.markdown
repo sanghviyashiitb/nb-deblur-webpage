@@ -24,7 +24,7 @@ layout: default
 	</a>
 	</div>
 	<div style="float:left;width:25%;">
-		<a href="https://aaaakshat.github.io/pldd/">
+		<a href="https://drive.google.com/file/d/1WUKuG-2Oddn8PmWac490mCNi5If4XqVg/view?usp=sharing">
 		<img src="assets/dataset.png" alt="drawing" style="width:20%;padding:5%;"/>
 		<h2>Dataset</h2>
 	</a>
