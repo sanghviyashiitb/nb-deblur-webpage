@@ -51,6 +51,9 @@ Image deblurring in photon-limited conditions is ubiquitous in a variety of low-
 <center><iframe width="800" height="450" src="https://www.youtube.com/embed/bJHiUKzjaCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br>
+<h2> Slides </h2>
+<center><iframe src="https://drive.google.com/file/d/1jWE6lYoINvlLndliJ6LSxSfdWK8wyxko/preview" width="640" height="480" allow="autoplay"></iframe> </center>
+<br>
 
 <h2>Dataset</h2>
 <span style="font-size:large;">Click <a href="https://aaaakshat.github.io/pldd/">here</a> for download and further details about the dataset!</span>
